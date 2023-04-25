@@ -1,1 +1,1 @@
-# euro-dash
+The dashboard is designed to display key insights and visualizations from a dataset sourced from Kaggle. The dataset used in this dashboard can be downloaded from https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales.The goal of this dashboard is to provide users with a quick and easy way to explore the data and gain insights from it. The dashboard is built using microsoft Power BI and uses the Power BI service to access it.
